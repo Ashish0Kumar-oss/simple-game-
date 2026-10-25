@@ -1,0 +1,6 @@
+{
+  "name": "Modi Run",
+  "description": "An action-packed Indian Vikas Yatra mobile game featuring endless runner challenges, Swachh Bharat missions, Vande Bharat boosts, Chandrayaan lander, and nation-building schemes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

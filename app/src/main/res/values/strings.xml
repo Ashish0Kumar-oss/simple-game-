@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Modi Run</string>
+    <string name="game_tagline">Vikas Yatra - Nation Building Adventure</string>
+    <string name="start_run">Start Vikas Run</string>
+    <string name="nation_builder">Nation Builder</string>
+    <string name="chandrayaan_mission">Chandrayaan 3</string>
+    <string name="cabinet_achievements">Cabinet Awards</string>
+    <string name="how_to_play">How To Play</string>
+    <string name="score_label">Vikas Score: %1$d</string>
+    <string name="coins_label">Vikas Coins: %1$d</string>
+    <string name="game_over">Yatra Complete!</string>
+    <string name="play_again">Run Again</string>
+    <string name="back_to_menu">Main Menu</string>
+</resources>

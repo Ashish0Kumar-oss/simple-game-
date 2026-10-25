@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Radiant aura circle -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M54,20 A34,34 0 1,1 53.9,20 Z" />
+    
+    <!-- White hair contour -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M39,36 C39,26 46,24 54,24 C62,24 69,26 69,36 C69,40 68,44 68,46 C65,47 62,47 60,47 C57,47 54,45 54,45 C54,45 51,47 48,47 C46,47 43,47 40,46 C40,44 39,40 39,36 Z" />
+
+    <!-- Face shape -->
+    <path
+        android:fillColor="#FFE0B2"
+        android:pathData="M41,38 C41,47 44,55 54,55 C64,55 67,47 67,38 C67,36 41,36 41,38 Z" />
+
+    <!-- Classic Modi Beard -->
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M42,46 C42,56 46,65 54,66 C62,65 66,56 66,46 C63,49 59,51 54,51 C49,51 45,49 42,46 Z" />
+    
+    <!-- Moustache -->
+    <path
+        android:fillColor="#EEEEEE"
+        android:pathData="M47,48 C50,47 52,48 54,49 C56,48 58,47 61,48 C60,50 56,51 54,51 C52,51 48,50 47,48 Z" />
+
+    <!-- Characteristic Specs / Glasses -->
+    <!-- Left frame -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#212121"
+        android:strokeWidth="2.2"
+        android:pathData="M44,40 A4.5,4.5 0 1,1 43.9,40 Z" />
+    <!-- Right frame -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#212121"
+        android:strokeWidth="2.2"
+        android:pathData="M59,40 A4.5,4.5 0 1,1 58.9,40 Z" />
+    <!-- Bridge -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#212121"
+        android:strokeWidth="2.2"
+        android:pathData="M48.5,40 L54.5,40" />
+
+    <!-- Eyes (friendly) -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M44,40 A1.2,1.2 0 1,1 43.9,40 Z" />
+    <path
+        android:fillColor="#212121"
+        android:pathData="M59,40 A1.2,1.2 0 1,1 58.9,40 Z" />
+
+    <!-- Nehru Jacket / Kurta shoulders & collar -->
+    <!-- Kurta (white) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,70 L48,66 L60,66 L74,70 L78,88 L30,88 Z" />
+    <!-- Modi Jacket (Saffron/Gold vest with mandarin collar) -->
+    <path
+        android:fillColor="#FF6F00"
+        android:pathData="M37,71 L47,67 L50,67 L50,88 L34,88 Z" />
+    <path
+        android:fillColor="#FF6F00"
+        android:pathData="M71,71 L61,67 L58,67 L58,88 L74,88 Z" />
+    <!-- Mandarin collar -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M47,65 L50,65 L50,71 L47,70 Z" />
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M61,65 L58,65 L58,71 L61,70 Z" />
+    <!-- Tiranga badge / pocket square on vest -->
+    <path
+        android:fillColor="#FF9933"
+        android:pathData="M40,75 L46,75 L46,77 L40,77 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,77 L46,77 L46,79 L40,79 Z" />
+    <path
+        android:fillColor="#138808"
+        android:pathData="M40,79 L46,79 L46,81 L40,81 Z" />
+</vector>
